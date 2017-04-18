@@ -1,0 +1,64 @@
+/*--------------------------------------
+This is the header!
+--------------------------------------*/
+html {
+	background-color: #030215;
+	color: #fff;
+}
+header {
+	font-family: 'Audiowide', cursive;
+	padding-left: 50px;
+	padding-bottom: 10px;
+}
+/*--------------------------------------
+This is the Body!
+--------------------------------------*/
+#body {
+	background-image: url("/Users/azimjonsodikov/workspace/challenges/static-web/html/images/mac.png");
+	background-size: 1560px 800px;
+	font-family: 'Comfortaa', cursive;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+body {
+	font-family: 'Comfortaa', cursive;
+}
+.bio, .future, .web {
+	width: 28%;
+	float: right;
+	padding-right: 60px;
+	padding-top: 80px;
+	padding-bottom: 170px;
+	line-height: 1.5em;
+}
+#jsblog {
+	display: inline-block;
+	width: 20%;
+	padding-left: 120px;
+	padding-bottom: 115px;
+	padding-top: 40px;
+}
+a {
+	color: #fff;
+	text-decoration: none;
+}
+a:hover {
+	font-size: 1.2em;
+}
+/*--------------------------------------
+This is the Footer!
+--------------------------------------*/
+footer {
+	clear: both;
+	text-align: center;
+}
+.fa {
+  padding: 20px;
+  font-size: 100px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+
