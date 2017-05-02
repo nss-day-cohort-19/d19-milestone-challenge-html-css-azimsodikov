@@ -9,12 +9,13 @@ header {
 	font-family: 'Audiowide', cursive;
 	padding-left: 50px;
 	padding-bottom: 10px;
+	text-align: center;
 }
 /*--------------------------------------
 This is the Body!
 --------------------------------------*/
 #body {
-	background-image: url("/Users/azimjonsodikov/workspace/challenges/static-web/html/images/mac.png");
+	background-image: url("../images/mac.png");
 	background-size: 1560px 800px;
 	font-family: 'Comfortaa', cursive;
 	background-repeat: no-repeat;
